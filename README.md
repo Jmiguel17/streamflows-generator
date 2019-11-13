@@ -1,4 +1,4 @@
-# streamflows-generator
+# Streamflows Generator
 Python implementation of a synthetic streamflow generator based on Cholesky decomposition.
 Method developed by Kirsch et al. (2013)
 
