@@ -2,7 +2,7 @@
 Python implementation of a synthetic streamflow generator based on Cholesky decomposition.
 Method developed by Kirsch et al. (2013)
 
-Actually the implementation is not so efficient :disappointed: could be many things to correct. 
+At the moment the implementation is not so efficient :disappointed: could be many things to correct. 
 However, it can generate 10000s of samples for different locations in a couple of seconds.    
 
     This class is inspired by the Matlab implementation found in https://github.com/jdherman/Qsynth and
